@@ -42,6 +42,11 @@ public class BubbleSort {
         System.out.println("排序后时间" + date2Str);
     }
 
+    public int[] bubbleSortZuo(int[] arr){
+
+        return arr;
+    }
+
     public int[] bubbleSort(int[] arr){
 
         boolean flag = false;
